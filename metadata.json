@@ -1,0 +1,6 @@
+{
+  "name": "MJ Plant Hire & Property Maintenance",
+  "description": "Professional plant hire with or without operator, groundwork, and comprehensive property maintenance services across Pembrokeshire and South West Wales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
